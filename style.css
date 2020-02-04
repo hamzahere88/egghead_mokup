@@ -1,0 +1,52 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+header {
+  display: flex;
+  background-color: #141618;
+  justify-content: space-between;
+}
+ul {
+  display: flex;
+  list-style-type: none;
+}
+ul li {
+  padding: 20px;
+  align-self: center;
+}
+ul li a {
+  color: #d2d2d3;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+button {
+  background-color: #278654;
+  font-size: 17px;
+  font-weight: 600;
+  color: white;
+  border: none;
+  width: 90px;
+  height: 35px;
+  border-radius: 3px;
+}
+.serch_bar {
+  display: flex;
+  background-color: #141618;
+  justify-content: space-around;
+  
+}
+.sarch
+{
+    width: 1300px;
+    height: 40px;
+    background-color: #1F2836;
+    border: none;
+    padding: 10px;
+    border-radius: 2px;
+    font-size: 18px;
+    font-weight: 200;
+
+
+}
